@@ -12,6 +12,9 @@ Collection of fun projects with Arduino.
 ```
 sketch_aug27a/sketch_aug27a.ino
 ```
+Circuit design
+
+![Application Screenshot](./assets/shift_reg.jpg)
 
 Working example 
 
