@@ -19,3 +19,12 @@ Circuit design
 Working example 
 
 ![Demo](./assets/shift_reg.gif)
+
+## Shift register Joystick RGB Controller
+```
+./sketch_aug28a/sketch_aug28a.ino
+```
+
+Working example 
+
+![Demo](./assets/joystick_rgb_led.gif)
