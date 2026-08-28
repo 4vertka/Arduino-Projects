@@ -7,6 +7,8 @@ Collection of fun projects with Arduino.
 
 ## Projects
 * Shift register LED bar with potentiometer
+* Shift register Joystick RGB Controller
+* 4 digit 7 segment display with DS1302 clock module
 
 ## Shift register LED bar with potentiometer
 ```
@@ -28,3 +30,12 @@ Working example
 Working example 
 
 ![Demo](./assets/joystick_rgb_led.gif)
+
+## 4 digit 7 segment display with DS1302 clock module
+```
+./sketch_aug28b/sketch_aug28b.ino
+```
+
+Working example 
+
+![Demo](./assets/clock.png)
